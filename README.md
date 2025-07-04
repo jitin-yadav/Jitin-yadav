@@ -1,10 +1,23 @@
-# Hi there 👋, My name is Jitin Yadav
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepo/raw/main/jitin-yadav-banner.png" alt="Jitin Yadav Banner" width="100%" />
+</p>
 
-- 🔧 I’m currently working as a **NOC Engineer** at Excitel Broadband.
-- 📚 I’m learning **CCNP**, **Cloud Networking (AWS)**, and **Linux for Automation**.
-- 🤝 I’m open to collaborating on **network monitoring, automation**, and **infrastructure optimization** projects.
-- 💬 Ask me about **Cisco configs, POP/Link monitoring**, or **incident response**.
-- ⚡ Fun fact: I love simplifying complex network issues and learning something new every day.
+<h1 align="center">Hi there 👋, My name is Jitin Yadav</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jitinyadav789" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+- 🔧 I’m currently working as a **NOC Engineer** at Excitel Broadband.  
+- 📚 I’m learning **CCNP**, **Cloud Networking (AWS)**, and **Linux for Automation**.  
+- 🤝 I’m open to collaborating on **network monitoring, automation**, and **infrastructure optimization** projects.  
+- 💬 Ask me about **Cisco configs, POP/Link monitoring**, or **incident response**.  
+- ⚡ Fun fact: I love simplifying complex network issues and learning something new every day.  
 - 📬 Contacts: [jitinyadav789@gmail.com](mailto:jitinyadav789@gmail.com)
 
 ---
