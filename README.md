@@ -1,6 +1,5 @@
 ## Hi there 👋 MY Name is Jitin Yadav
 
-<# Jitin Yadav's Network Engineering Portfolio
 
 👋 Welcome! This repository highlights my hands-on work in the field of networking, monitoring, and Linux, developed through experience at Excitel Broadband and self-learning with tools like Cisco Packet Tracer, Grafana, and more.
 
@@ -22,15 +21,6 @@
 - Basic Linux terminal commands for NOC engineers
 - Network troubleshooting tools (`ping`, `traceroute`, `netstat`, etc.)
 - File system navigation & permission basics
-
----
-
-## 🧪 Labs & Projects
-
-- ✅ VLAN lab: Multi-switch configuration with inter-VLAN routing  
-- ✅ OSPF & Static Routing in Packet Tracer  
-- ✅ Zabbix-based POP/Link Monitoring Setup  
-- ✅ Cisco Switch + ONT Configuration Notes
 
 ---
 
