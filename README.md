@@ -1,60 +1,49 @@
-## Hi there 👋 MY Name is Jitin Yadav
+# Hi there 👋, My name is Jitin Yadav
 
+- 🔧 I’m currently working as a **NOC Engineer** at Excitel Broadband.
+- 📚 I’m learning **CCNP**, **Cloud Networking (AWS)**, and **Linux for Automation**.
+- 🤝 I’m open to collaborating on **network monitoring, automation**, and **infrastructure optimization** projects.
+- 💬 Ask me about **Cisco configs, POP/Link monitoring**, or **incident response**.
+- ⚡ Fun fact: I love simplifying complex network issues and learning something new every day.
+- 📬 Contacts: [jitinyadav789@gmail.com](mailto:jitinyadav789@gmail.com)
 
-Welcome to my repository showcasing practical work and projects in the field of network engineering, NOC operations, and network monitoring. This repo is built from my real-world experience as a NOC Engineer at Excitel Broadband Pvt. Ltd., combined with my academic learning from the CCNA certification and ongoing self-study.
+---
 
-🔧 What You'll Find Here:
-✅ Cisco Router & Switch Configurations (VLANs, OSPF, Static Routing)
+## 🧠 Skills:
 
-✅ Network Monitoring Tools Setup (Grafana, Zabbix, XNMS, Slack integration)
+### 📡 Networking & NOC Operations
+- **Routing & Switching:** Static Routing, VLANs, OSPF  
+- **Link & POP Monitoring:** Fault identification, escalation, and resolution  
+- **Incident Management:** SLA-based ticket handling, Procare Ticketing Tool  
+- **Network Devices:** Cisco Switches (5700, 6700 series), ONTs  
+- **Protocols:** TCP/IP, SNMP, DNS, DHCP, NAT  
+- **Inventory Documentation:** NetBox usage for device & topology records
 
-✅ Linux Commands for Network Troubleshooting
+### ☁️ Cloud & Linux (Basics)
+- **Linux Commands:** Network interface checks, ping, traceroute, netstat  
+- **Cloud Fundamentals:** AWS basics (currently learning)  
+- **Command Line Proficiency:** Ubuntu/CentOS CLI environments
 
-✅ CCNA Lab Simulations using Packet Tracer
+### 🛠️ Monitoring & Tools
+- **Tools Used:** Grafana, Zabbix, Observium, XNMS  
+- **Alerting & Reporting:** Slack integration, uptime/downtime logs, link flapping analysis  
+- **Simulation Tools:** Cisco Packet Tracer, GNS3
 
-✅ POP/Link Monitoring Logs & Documentation
+### 💼 Soft Skills
+- **Team Coordination:** Working with field engineers during outages  
+- **Communication:** Reporting to L2/NOC leads, vendor follow-up  
+- **Time Management:** Working under pressure in real-time network environments  
 
-💡 Skills:
-Network Monitoring & Troubleshooting
+---
 
-Layer 2/3 Switching and Routing
+## 🛠 Tools:
 
-Link/POP Analysis & Incident Management
-
-Network Configuration (Cisco IOS)
-
-Subnetting, IP Addressing, VLANs
-
-Coordination with Field Teams
-
-Linux CLI for Networking Tasks
-
-Understanding of OSPF, Static Routing, ACLs
-
-🛠️ Tools & Technologies:
-Cisco Routers & Switches (5700, 6700 series)
-
-Packet Tracer (for lab simulation)
-
-Grafana, Zabbix, XNMS, Observium
-
-Slack Alerts Integration
-
-NetBox for network documentation
-
-Procare Ticketing Tool
-
-Linux Terminal (Ubuntu/CentOS)
-
-🎯 Goals of This Repo:
-To showcase my real-world skills and hands-on experience
-
-To provide reusable configuration examples and monitoring setups
-
-To contribute to other learners and networking professionals
-
-To serve as my personal knowledge base and learning tracker
-
-
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-EF2D5E?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/PacketTracer-1F3A93?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
