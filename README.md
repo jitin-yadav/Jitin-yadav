@@ -1,6 +1,6 @@
 <!-- LinkedIn Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFAQrcP3GNtdA/profile-displaybackgroundimage-shrink_350_1400/B4DZfVnOuzG8AY-/0/1751635526961?e=1756944000&v=beta&t=Llj0p4PuMkCn9kINSX8JVBYFThWtAY1mw-aF0EjMjr4" alt="Jitin Yadav LinkedIn Cover" width="100%" />
+  <img src=["https://media.licdn.com/dms/image/v2/D4D16AQFAQrcP3GNtdA/profile-displaybackgroundimage-shrink_350_1400/B4DZfVnOuzG8AY-/0/1751635526961?e=1756944000&v=beta&t=Llj0p4PuMkCn9kINSX8JVBYFThWtAY1mw-aF0EjMjr4" alt="Jitin Yadav LinkedIn Cover" width="100%" />](https://media.licdn.com/dms/image/v2/D4D16AQHKF1g89MvC8A/profile-displaybackgroundimage-shrink_350_1400/B4DZfVzE4sGYAY-/0/1751638630400?e=1756944000&v=beta&t=R5pgzoWrD5Qr_MigWW6ssNszjf7udj_mhrHPww_62F8)
 </p>
 
 <h1 align="center">Hi there 👋, My name is Jitin Yadav</h1>
