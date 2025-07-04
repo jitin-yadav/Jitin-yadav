@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there 👋 MY Name is Jitin Yadav
 
-<!--
-**jitin-yadav/Jitin-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Jitin Yadav's Network Engineering Portfolio
 
-Here are some ideas to get you started:
+👋 Welcome! This repository highlights my hands-on work in the field of networking, monitoring, and Linux, developed through experience at Excitel Broadband and self-learning with tools like Cisco Packet Tracer, Grafana, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📁 Repository Structure
+
+### 🔌 Cisco Configurations (`/cisco-configs`)
+- Router and switch configurations
+- VLAN setup examples
+- OSPF & static routing labs
+
+### 📊 Monitoring Tools (`/monitoring`)
+- Grafana dashboard examples
+- Zabbix SNMP setup
+- Alerts, uptime checks, and link monitoring steps
+
+### 🐧 Linux Notes (`/linux-notes`)
+- Basic Linux terminal commands for NOC engineers
+- Network troubleshooting tools (`ping`, `traceroute`, `netstat`, etc.)
+- File system navigation & permission basics
+
+---
+
+## 🧪 Labs & Projects
+
+- ✅ VLAN lab: Multi-switch configuration with inter-VLAN routing  
+- ✅ OSPF & Static Routing in Packet Tracer  
+- ✅ Zabbix-based POP/Link Monitoring Setup  
+- ✅ Cisco Switch + ONT Configuration Notes
+
+---
+
+## 📍 About Me
+
+**Name:** Jitin Yadav  
+**Role:** NOC Engineer | CCNA Certified  
+**Email:** jitinyadav789@gmail.com  
+**Location:** New Delhi | Noida | Gurugram  
+**Open to:** Network Engineer, Monitoring Specialist, Network Technical Support roles  
+
+---
+
+> Feel free to explore and fork this repo. Let’s build better networks — together! 🚀
+
+
