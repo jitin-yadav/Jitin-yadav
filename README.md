@@ -1,39 +1,60 @@
 ## Hi there 👋 MY Name is Jitin Yadav
 
 
-👋 Welcome! This repository highlights my hands-on work in the field of networking, monitoring, and Linux, developed through experience at Excitel Broadband and self-learning with tools like Cisco Packet Tracer, Grafana, and more.
+Welcome to my repository showcasing practical work and projects in the field of network engineering, NOC operations, and network monitoring. This repo is built from my real-world experience as a NOC Engineer at Excitel Broadband Pvt. Ltd., combined with my academic learning from the CCNA certification and ongoing self-study.
 
----
+🔧 What You'll Find Here:
+✅ Cisco Router & Switch Configurations (VLANs, OSPF, Static Routing)
 
-## 📁 Repository Structure
+✅ Network Monitoring Tools Setup (Grafana, Zabbix, XNMS, Slack integration)
 
-### 🔌 Cisco Configurations (`/cisco-configs`)
-- Router and switch configurations
-- VLAN setup examples
-- OSPF & static routing labs
+✅ Linux Commands for Network Troubleshooting
 
-### 📊 Monitoring Tools (`/monitoring`)
-- Grafana dashboard examples
-- Zabbix SNMP setup
-- Alerts, uptime checks, and link monitoring steps
+✅ CCNA Lab Simulations using Packet Tracer
 
-### 🐧 Linux Notes (`/linux-notes`)
-- Basic Linux terminal commands for NOC engineers
-- Network troubleshooting tools (`ping`, `traceroute`, `netstat`, etc.)
-- File system navigation & permission basics
+✅ POP/Link Monitoring Logs & Documentation
 
----
+💡 Skills:
+Network Monitoring & Troubleshooting
 
-## 📍 About Me
+Layer 2/3 Switching and Routing
 
-**Name:** Jitin Yadav  
-**Role:** NOC Engineer | CCNA Certified  
-**Email:** jitinyadav789@gmail.com  
-**Location:** New Delhi | Noida | Gurugram  
-**Open to:** Network Engineer, Monitoring Specialist, Network Technical Support roles  
+Link/POP Analysis & Incident Management
 
----
+Network Configuration (Cisco IOS)
 
-> Feel free to explore and fork this repo. Let’s build better networks — together! 🚀
+Subnetting, IP Addressing, VLANs
+
+Coordination with Field Teams
+
+Linux CLI for Networking Tasks
+
+Understanding of OSPF, Static Routing, ACLs
+
+🛠️ Tools & Technologies:
+Cisco Routers & Switches (5700, 6700 series)
+
+Packet Tracer (for lab simulation)
+
+Grafana, Zabbix, XNMS, Observium
+
+Slack Alerts Integration
+
+NetBox for network documentation
+
+Procare Ticketing Tool
+
+Linux Terminal (Ubuntu/CentOS)
+
+🎯 Goals of This Repo:
+To showcase my real-world skills and hands-on experience
+
+To provide reusable configuration examples and monitoring setups
+
+To contribute to other learners and networking professionals
+
+To serve as my personal knowledge base and learning tracker
+
+
 
 
