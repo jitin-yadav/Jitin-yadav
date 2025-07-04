@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepo/raw/main/jitin-yadav-banner.png" alt="Jitin Yadav Banner" width="100%" />
+  <img src="https://github.com/yourusername/yourrepo/raw/main/[jitin-yadav-banner.png" alt="Jitin Yadav Banner](https://media.licdn.com/dms/image/v2/D4D16AQFAQrcP3GNtdA/profile-displaybackgroundimage-shrink_350_1400/B4DZfVnOuzG8AY-/0/1751635526961?e=1756944000&v=beta&t=Llj0p4PuMkCn9kINSX8JVBYFThWtAY1mw-aF0EjMjr4)" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, My name is Jitin Yadav</h1>
